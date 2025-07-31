@@ -1,0 +1,20 @@
+{
+  "name": "BELGECOIN Token List",
+  "logoURI": "https://raw.githubusercontent.com/LeBelgedeBelgique/belgecoin/main/logo.png",
+  "timestamp": "2025-07-31T19:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x4341A1dAf91B6482d2105e0cF66eB1C4FA69AB46",
+      "symbol": "BLG",
+      "name": "BELGECOIN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/LeBelgedeBelgique/belgecoin/main/logo.png"
+    }
+  ]
+}
