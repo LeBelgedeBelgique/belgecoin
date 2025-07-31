@@ -4,7 +4,7 @@
   "address": "0x4341A1dAf91B6482d2105e0cF66eB1C4FA69AB46",
   "chainId": 8453,
   "decimals": 18,
-  "logoURI": "https://github.com/LeBelgedeBelgique/belgecoin/blob/main/logo.png?raw=true",
+  "logoURI": "https://raw.githubusercontent.com/LeBelgedeBelgique/belgecoin/main/logo.png",
   "tags": ["belgium", "frites", "taxes", "belgique", "humour", "community"],
   "description": "Le token officiel de la Belgitude. Frites, bières, et taxes assumées !",
   "website": "https://belgecoin.be"
